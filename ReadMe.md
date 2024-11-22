@@ -6,3 +6,5 @@ https://www.nexusmods.com/skyrimspecialedition/mods/133569
 and **po3 Papyrus Extender**  
 SE: https://www.nexusmods.com/skyrimspecialedition/mods/22854  
 VR: https://www.nexusmods.com/skyrimspecialedition/mods/58296
+
+Voice by Neochicken
