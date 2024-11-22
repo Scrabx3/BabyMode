@@ -15,8 +15,8 @@ EndEvent
 Event OnConsoleCommand(String asCommand, ObjectReference akTargetReference)
   bool tgm = PO3_SKSEFunctions.GetGodMode()
   If (tgm)
-    BigBoyModeSound.Play(GetReference())
-  Else
     BabyModeSound.Play(GetReference())
+  Else
+    BigBoyModeSound.Play(GetReference())
   EndIf
 EndEvent
