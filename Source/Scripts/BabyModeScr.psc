@@ -8,8 +8,8 @@ Event OnInit()
 EndEvent
 
 Event OnPlayerLoadGame()
-  CustomConsole.RegisterForConsoleCommand_Alias(Self, "tgm", false, none)
-  CustomConsole.RegisterForConsoleCommand_Alias(Self, "ToggleGodMode", false, none)
+  ConsoleUtil.RegisterForConsoleCommand_Alias(Self, "tgm", false, none)
+  ConsoleUtil.RegisterForConsoleCommand_Alias(Self, "ToggleGodMode", false, none)
 EndEvent
 
 Event OnConsoleCommand(String asCommand, ObjectReference akTargetReference)
